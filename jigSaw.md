@@ -22,8 +22,9 @@ Good Resource:
 16. Before cutting the wood or metal give it some time to stabilize its speed. </br>
 17. Good balance and proper footing while operating the equipment is important.</br>
 18. Hold the jigsaw with two hands when operating it (see picture beside). Beyond helping to control Jigsaw Safety Showing Two Hands the equipment, this will keep your fingers away from the moving portion of the blade that extends below the material being cut.</br>
-19. Do not apply excessive force when using a jigsaw, especially when cutting curves and angles. Ensure that the blade does not twist or bind (if necessary, drill small holes).</br>
-20. Periodically examine the material for splits, loose knots and nails. Ensure the material is secure and well supported.</br>
+![alt text](https://ehs.cornell.edu/sites/default/files/2021-09/Jigsaw_Showing_Two_Hands_Opt.jpg)
+20. Do not apply excessive force when using a jigsaw, especially when cutting curves and angles. Ensure that the blade does not twist or bind (if necessary, drill small holes).</br>
+21. Periodically examine the material for splits, loose knots and nails. Ensure the material is secure and well supported.</br>
 If the blade binds, release the switch immediately – free the blade and inspect for damage.</br>
 Do not remove the saw from the workpiece until the blade has come to a complete stop.</br>
 
