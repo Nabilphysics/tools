@@ -3,6 +3,7 @@
 ## Video: 
 https://www.youtube.com/watch?v=puGg_UzpVo4</br>
 https://www.youtube.com/watch?v=oJRSkBSb5S8</br>
+https://www.youtube.com/watch?v=X8i7Ga1UqEE</br>
 [Angle Grinder Toolbox Talk | Environment, Health and Safety (cornell.edu)](https://ehs.cornell.edu/campus-health-safety/occupational-safety/tool-and-machine-safety/angle-grinder-toolbox-talk)</br>
 Angle grinders are used for metalwork and fabrication such as grinding down welds. They are also used in construction. They are commonly used in workshops, service garages, and auto body repair shops. Angle grinders can be dangerous due to the high rpm involved and the sparks and bits of metal that fly off as they cut.
 
