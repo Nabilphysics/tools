@@ -21,15 +21,16 @@ Angle grinders are used for metalwork and fabrication such as grinding down weld
 11. Allow the grinder to “run-up” to operating speed before applying it to the job.
 12. Hold the grinder against the workpiece with minimum pressure so the disc doesn’t “dig in” and cause it to kick back.
 13. Never bump the grinder onto the work, or let the disc hit any other object while grinding.
-14. Keep the grinding disc at a 15 to 30-degree angle to the work. Not applicable for cutting disk. Check disk (usually you will find the operation angle on the disk as image)
-15. Ensure the workpiece is held firmly in a bench vice when appropriate.
-16. Keep the work at waist height during grinding.
-17. Stop the grinder regularly to rest your hands and arms.
-18. When not in use, disconnect the power and place the grinder on a bench with the disc facing upwards.
-19. Never put a grinder down until the disc stops rotating.
-20. Disconnect power before changing discs.
-21. Never use a cut-off wheel for grinding or a grinding disc for cutting.
-22. Dispose of any disc that has been dropped. Cracked or weakened discs can shatter in use.
+14. Keep the grinding disc at a 15 to 30-degree angle to the work. Not applicable for cutting disk. Check disk (usually you will find the operation angle on the disk's label as image)
+15. Angle tools and workpiece should be cut vertically at 90 degrees during cutting.
+16. Ensure the workpiece is held firmly in a bench vice when appropriate.
+17. Keep the work at waist height during grinding.
+18. Stop the grinder regularly to rest your hands and arms.
+19. When not in use, disconnect the power and place the grinder on a bench with the disc facing upwards.
+20. Never put a grinder down until the disc stops rotating.
+21. Disconnect power before changing discs.
+22. Never use a cut-off wheel for grinding or a grinding disc for cutting.
+23. Dispose of any disc that has been dropped. Cracked or weakened discs can shatter in use.
 
 
 
