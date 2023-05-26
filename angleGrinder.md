@@ -1,10 +1,19 @@
 # Angle Grinder Operation:
+## First, watch some scary videos:
+https://www.youtube.com/watch?v=r0OisyP0lUc</br>
+https://www.youtube.com/watch?v=P22Q46dIwug</br>
+https://www.youtube.com/watch?v=Ze9IQVxiquk</br>
 
-## Video: 
+Now, you should understand that an angle grinder is a dangerous tool.</br>
+
+## Now watch the Tutorial Video: 
 https://www.youtube.com/watch?v=puGg_UzpVo4</br>
 https://www.youtube.com/watch?v=oJRSkBSb5S8</br>
 https://www.youtube.com/watch?v=X8i7Ga1UqEE</br>
-[Angle Grinder Toolbox Talk | Environment, Health and Safety (cornell.edu)](https://ehs.cornell.edu/campus-health-safety/occupational-safety/tool-and-machine-safety/angle-grinder-toolbox-talk)</br>
+https://www.youtube.com/watch?v=hid9bDnSeok</br>
+https://www.youtube.com/watch?v=R6tkGl4ftXg</br>
+Angle Grinder Toolbox Talk | Environment, Health and Safety (cornell.edu)</br>
+
 Angle grinders are used for metalwork and fabrication such as grinding down welds. They are also used in construction. They are commonly used in workshops, service garages, and auto body repair shops. Angle grinders can be dangerous due to the high rpm involved and the sparks and bits of metal that fly off as they cut.
 
 ## Safety Recommendation:
@@ -21,8 +30,8 @@ Angle grinders are used for metalwork and fabrication such as grinding down weld
 11. Allow the grinder to “run-up” to operating speed before applying it to the job.
 12. Hold the grinder against the workpiece with minimum pressure so the disc doesn’t “dig in” and cause it to kick back.
 13. Never bump the grinder onto the work, or let the disc hit any other object while grinding.
-14. Keep the grinding disc at a 15 to 30-degree angle to the work. Not applicable for cutting disk. Check disk (usually you will find the operation angle on the disk's label as image)
-15. Angle tools and workpiece should be cut vertically at 90 degrees during cutting.
+14. Angle tools and workpiece should be cut vertically at 90 degrees during cutting.
+15. Keep the grinding disc at a 15 to 30-degree angle to the work. Not applicable for cutting disk. Check disk (usually you will find the operation angle on the disk as image)
 16. Ensure the workpiece is held firmly in a bench vice when appropriate.
 17. Keep the work at waist height during grinding.
 18. Stop the grinder regularly to rest your hands and arms.
@@ -31,6 +40,8 @@ Angle grinders are used for metalwork and fabrication such as grinding down weld
 21. Disconnect power before changing discs.
 22. Never use a cut-off wheel for grinding or a grinding disc for cutting.
 23. Dispose of any disc that has been dropped. Cracked or weakened discs can shatter in use.
+24. Try to place your body like this picture. </br>
+![alt text](https://github.com/Nabilphysics/tools/blob/main/image/angleGrinderPosition.png)
 
 
 
