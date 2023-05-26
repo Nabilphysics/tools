@@ -10,7 +10,7 @@ Angle grinders are used for metalwork and fabrication such as grinding down weld
 ## Safety Recommendation:
 1. Wear safety glasses, jeans pent, mask, and hand gloves. Proper leather boots and earplugs are recommended.</br>
 2. Always physically unplug the power plug when you do not use it or change the disk. Switching off is not enough.
-3. Insert the disk into the machine on the correct side (https://www.youtube.com/watch?v=H4jayQQbYQ8). 
+3. Insert the disk into the machine on the correct side. Some experts suggest that the cutting disk should be mounted backward (written side backward https://www.youtube.com/watch?v=PEz0aFJm0lY) while some experts suggest the opposite (https://www.youtube.com/watch?v=H4jayQQbYQ8). 
 4. Before use, ensure the auxiliary handle is attached.
 5. Ensure operators grip both handles during use.
 6. Always use the correct type of disc. Ensure the disc speed limit (rpm) exceeds the angle grinder operating speed.
